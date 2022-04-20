@@ -2,7 +2,7 @@
     "packageDirectories": [
         {
             "path": "sfdx-source/apex-common",
-            "default": true
+            "default": false
         }
     ],
     "namespace": "",
